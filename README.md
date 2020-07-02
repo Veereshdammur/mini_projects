@@ -1,3 +1,3 @@
 # mini_projects
 
-  1. Outlier detection 
+  1. Git tutorials 
